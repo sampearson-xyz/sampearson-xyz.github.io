@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Proximate";
+    src: url("/public/fonts/Proximate-Regular.ttf");
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    .bg-orange {
+        background-color: #F7683D;
+    }
+    .bg-dark-grey {
+        background-color: #171717;
+    }
+}

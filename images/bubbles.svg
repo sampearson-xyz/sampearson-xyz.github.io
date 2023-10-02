@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="782.795" height="583.866" viewBox="0 0 782.795 583.866">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <circle id="Mask" cx="285" cy="285" r="285" transform="translate(0 0.142)" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <circle id="Mask-2" data-name="Mask" cx="92" cy="92" r="92" transform="translate(0 0.207)" fill="url(#linear-gradient)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_3756" data-name="Group 3756" transform="translate(-208.205 -4799.134)">
+    <g id="Group_3755" data-name="Group 3755">
+      <g id="Image" transform="translate(322 4812.858)" opacity="0.231" clip-path="url(#clip-path)">
+        <rect id="Overlay" width="570" height="570" transform="translate(0 0.142)" fill="url(#linear-gradient)"/>
+        <rect id="Overlay-2" data-name="Overlay" width="570" height="570" transform="translate(0 0.142)" fill="url(#linear-gradient)"/>
+      </g>
+      <g id="Image-2" data-name="Image" transform="translate(208.006 5291.027) rotate(-74)" opacity="0.231" clip-path="url(#clip-path-2)">
+        <rect id="Overlay-3" data-name="Overlay" width="184" height="184" transform="translate(0 0.207)" fill="url(#linear-gradient)"/>
+        <rect id="Overlay-4" data-name="Overlay" width="184" height="184" transform="translate(0 0.207)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="Group_3754" data-name="Group 3754" transform="translate(101 -13.866)">
+      <circle id="Ellipse_527" data-name="Ellipse 527" cx="284" cy="284" r="284" transform="translate(322 4813)" fill="rgba(255,255,255,0.07)" opacity="0.575"/>
+      <ellipse id="Ellipse_527-2" data-name="Ellipse 527" cx="92" cy="91.5" rx="92" ry="91.5" transform="translate(208.205 5291.084) rotate(-74)" fill="rgba(255,255,255,0.07)" opacity="0.231"/>
+    </g>
+  </g>
+</svg>

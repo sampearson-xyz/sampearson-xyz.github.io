@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="929.868" height="829" viewBox="0 0 929.868 829">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Mask" cx="414.5" cy="414.5" r="414.5" transform="translate(0 0)" fill="#282828"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="1" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.394" y2="0.974" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6a6a6a" stop-opacity="0"/>
+      <stop offset="0.594" stop-color="#171717" stop-opacity="0.78"/>
+      <stop offset="1"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_3756" data-name="Group 3756" transform="translate(-546 -543)">
+    <circle id="Mask-2" data-name="Mask" cx="414.5" cy="414.5" r="414.5" transform="translate(546 543)" fill="#282828"/>
+    <g id="Group_3754" data-name="Group 3754">
+      <g id="Group_3755" data-name="Group 3755">
+        <g id="Group_3753" data-name="Group 3753">
+          <g id="Image" transform="translate(546 543)" clip-path="url(#clip-path)">
+            <rect id="Overlay" width="829" height="829" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+            <rect id="Overlay-2" data-name="Overlay" width="829" height="829" transform="translate(0 0)" fill="url(#linear-gradient-2)"/>
+          </g>
+          <circle id="Ellipse_68" data-name="Ellipse 68" cx="138.864" cy="138.864" r="138.864" transform="matrix(0.574, -0.819, 0.819, 0.574, 1089.067, 773.72)" fill="url(#linear-gradient-3)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
